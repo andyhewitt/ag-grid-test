@@ -14,7 +14,6 @@ class App extends Component {
     this.state = {
       columnDefs: [
         {
-          
           headerName: "Country",
           field: "country",
           filter: true,
